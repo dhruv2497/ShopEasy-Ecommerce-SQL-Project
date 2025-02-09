@@ -17,7 +17,7 @@ Welcome to the **ShopEasy E-commerce SQL Project**! This project demonstrates ho
 ---
 
 ## Introduction
-The ShopEasy E-commerce SQL project focuses on creating a robust database system to manage and analyze data for an online retail platform. The database, named `shopeasy`, stores essential information such as customer details, product listings, orders, order items, and customer reviews. This project aims to simulate real-world e-commerce operations by enabling analytical queries to derive actionable business insights.
+The ShopEasy E-commerce SQL project focuses on creating a robust database system to manage and analyze data for an online retail platform. The database, named `ShopEasy`, stores essential information such as customer details, product listings, orders, order items, and customer reviews. This project aims to simulate real-world e-commerce operations by enabling analytical queries to derive actionable business insights.
 
 ---
 
@@ -57,10 +57,9 @@ The ShopEasy E-commerce SQL project demonstrates how data can be used to solve r
 
 ---
 
-#### **Technologies Used**
 ## Technologies Used
 - **SQL**: For database creation and querying.
 - **PostgreSQL**: As the database management system.
 - **Data Analysis**: Data Analysis skills.
-- **GitHub**: For project hosting and version control.
+- **GitHub**: For project hosting.
 - **Business Knowledge**: Knowledge of retail business to solve problems.
