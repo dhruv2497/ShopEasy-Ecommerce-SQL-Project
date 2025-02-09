@@ -11,7 +11,7 @@ Welcome to the **ShopEasy E-commerce SQL Project**! This project demonstrates ho
 2. [Objectives](#objectives)
 3. [Database Schema](#database-schema)
 4. [Business Problems and Solutions](#business-problems-and-solutions)
-5. Conclusion
+5. [Conclusion](#conclusion)
 7. [Technologies Used](#technologies-used)
 
 ---
