@@ -1,7 +1,5 @@
 # ShopEasy E-commerce SQL Project
 
-[![Project Banner](images/banner.png)](https://in.pinterest.com/pin/299067231495569244/) <!-- Add a banner image if available -->
-
 Welcome to the **ShopEasy E-commerce SQL Project**! This project demonstrates how to build and analyze a database for an online retail platform using SQL. It includes real-world business problems, actionable insights, and practical applications for e-commerce operations.
 
 ---
@@ -39,7 +37,7 @@ The database consists of the following tables:
 - **Order Items**: Records details of items in each order.
 - **Reviews**: Stores customer reviews for products.
 
-![Database Schema](images/database_schema.png) <!-- Add a diagram of the database schema -->
+![Database Schema](ShopEasy-Ecommerce-SQL-Project/images/ER Diagram.jpg) <!-- Add a diagram of the database schema -->
 
 ---
 
