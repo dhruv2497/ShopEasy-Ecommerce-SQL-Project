@@ -1,5 +1,7 @@
 # ShopEasy E-commerce SQL Project
 
+![Image](https://github.com/user-attachments/assets/61b38b87-abc3-4d29-902a-03842d6895fd)
+
 Welcome to the **ShopEasy E-commerce SQL Project**! This project demonstrates how to build and analyze a database for an online retail platform using SQL. It includes real-world business problems, actionable insights, and practical applications for e-commerce operations.
 
 ---
