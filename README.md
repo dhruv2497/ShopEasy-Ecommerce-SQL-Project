@@ -1,6 +1,6 @@
 # ShopEasy E-commerce SQL Project
 
-![Project Banner](images/banner.png) <!-- Add a banner image if available -->
+[![Project Banner](images/banner.png)](https://in.pinterest.com/pin/299067231495569244/) <!-- Add a banner image if available -->
 
 Welcome to the **ShopEasy E-commerce SQL Project**! This project demonstrates how to build and analyze a database for an online retail platform using SQL. It includes real-world business problems, actionable insights, and practical applications for e-commerce operations.
 
