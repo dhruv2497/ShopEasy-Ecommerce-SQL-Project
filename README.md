@@ -37,7 +37,7 @@ The database consists of the following tables:
 - **Order Items**: Records details of items in each order.
 - **Reviews**: Stores customer reviews for products.
 
-![Database Schema](ShopEasy-Ecommerce-SQL-Project/images/ER Diagram.jpg) <!-- Add a diagram of the database schema -->
+![Database Schema](ShopEasy-Ecommerce-SQL-Project/images/ER Diagram.jpg) <!-- ShopEasy-Ecommerce-SQL-Project/images/ER Diagram.jpg -->
 
 ---
 
